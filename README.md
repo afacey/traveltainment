@@ -1,7 +1,15 @@
-# traveltainment
-App for finding movies/TV to watch on the go depending on your travel time. Uses JavaScript, jQuery, and multiple REST APIs including theMovieDb and Google Maps.
-<br><br>
-Link: https://nkanigsberg.github.io/traveltainment/
-<br><br>
-![Traveltainment Screenshot](traveltainment-main.png?raw=true "Traveltainment Screenshot")
-![Traveltainment Screenshot with map](traveltainment-map.png?raw=true "Traveltainment Screenshot with map")
+# Traveltainment
+
+[<img src="https://andrefacey.com/assets/mockups/traveltainment-mockup-lg.png">][mockup]
+
+Need to find something to watch while you're traveling?
+
+Traveltainment enables users to find and create a list of movies and tv shows to watch during the duration of their travel. Pair programmed with [Nathan Kanigsberg][nathan]
+
+JavaScript | jQuery | TMDb & Google Maps API | HTML | SCSS | Pair Programming
+
+View live at [afacey.github.io/traveltainment][live]
+
+[mockup]: https://andrefacey.com/assets/mockups/traveltainment-mockup.png"
+[live]: https://afacey.github.io/traveltainment/
+[nathan]: https://github.com/nkanigsberg
